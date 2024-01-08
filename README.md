@@ -3,7 +3,7 @@
 I'm a passionate developer and data enthusiast, driven by the curiosity to solve complex problems using technology. With a keen interest in Data Science,  AI, machine learning, and data analysis, I love exploring new trends and applying them in practical projects. Here on GitHub, you'll find a mix of my work ranging from innovative ML applications to data-driven solutions, each reflecting my journey in tech. Let's collaborate and push the boundaries of what's possible! 🚀📊🤖
 
 📫 How to reach me:
-- 📧 Email: indlalikhitha@gmail.com
+- 📧 Email: likhithas218@gmail.com
 
 ⚡ Feel free to check out my repositories and let's get connected!
 <!--
